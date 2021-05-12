@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Nov 10 23:58:35 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0175-b5e2-657a-0000045857e0 
+on database directory /home/diableria/Programas/floreant/database/derby-single/posdb  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/diableria/Programas/floreant/lib/derby-10.8.1.2.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.9+11-Ubuntu-0ubuntu1.18.04.1
+user.dir=/home/diableria/Programas/floreant
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
